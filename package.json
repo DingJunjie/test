@@ -1,0 +1,36 @@
+{
+  "name": "ifmchain-ibt",
+  "version": "0.0.9",
+  "description": "a fornt-end package of ifmchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ifmchain",
+    "blockchain",
+    "ibt"
+  ],
+  "author": "bngj",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  },
+  "dependencies": {
+    "bitcore-mnemonic": "^1.2.5",
+    "buffer-to-uint8array": "^1.1.0",
+    "bytebuffer": "^5.0.1",
+    "crypto": "0.0.3",
+    "crypto-browserify": "^3.12.0",
+    "debug": "^2.6.8",
+    "elliptic": "^6.4.0",
+    "js-nacl": "^1.2.2",
+    "node-fetch": "^1.7.3",
+    "winston": "^2.3.1",
+    "xhr2": "^0.1.4",
+    "xmlhttprequest": "^1.8.0",
+    "z-schema": "^3.18.2"
+  }
+}

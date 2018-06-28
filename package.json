@@ -1,6 +1,6 @@
 {
   "name": "ifmchain-ibt",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "description": "a fornt-end package of ifmchain",
   "main": "index.js",
   "scripts": {
